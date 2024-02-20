@@ -1,0 +1,53 @@
+.details-pricing{
+    display: flex;
+    gap: 20px;
+    background-color: lightgrey;
+}
+h4{
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+}
+.details{
+    margin: 10px;
+    height: 350px;
+    width: 400px;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.pricing {
+    margin: 10px;
+    height: 350px;
+    width: 400px;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.link{
+    display : flex;
+}
+.keywords{
+    display: flex;
+    flex-direction: row;
+}
+.keyword{
+    margin: 10px;
+    padding: 4px 8px;
+    color: white;
+    font-size: 12px;
+    background-color: grey;
+    border: none;
+    border-radius: 12px;
+}
+.heading{
+    color: black;
+    font-weight: 600;
+}
+.prices{
+    display: flex;
+    gap: 20px;
+    line-height: 0px;
+}
+.price{
+    color: black;
+    font-size: 12px;
+}
